@@ -1,0 +1,2 @@
+# Movie_Recommendation_System
+The Movie Recommendation System is a project designed to suggest movies to users based on their preferences. Using Python, pandas, and machine learning techniques, the system analyzes various features of movies such as genre, keywords, tagline, cast, and director to provide personalized movie recommendations. This project leverages the power of natural language processing (NLP) and similarity metrics to enhance the movie-watching experience.
